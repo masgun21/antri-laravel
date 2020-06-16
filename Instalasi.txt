@@ -1,0 +1,13 @@
+Aplikasi Antrian untuk memudahkan proses antrian, dapat di terapkan di Bank, Klinik, Puskesmas, Rumah sakit, DLL.
+
+Langkah instalasi
+
+1. Extrac file rar di xampp atau web server lainnya
+2. buat nama database jltoken atau lainnya
+2. Akses http://Alamatanda/folderantrian/install
+3. ikuti petunjuk instalasinya dan sesuaikan dengan nama database, user, password mysql
+4. langkah terakhir sesuaikan dengan fungsinya
+
+
+user default : admin
+pass default : admin
